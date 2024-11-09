@@ -15,7 +15,7 @@
 
 ## Installation
 
-1. Download the latest release of the plugin from the [releases page](#).
+1. compile yourself.
 2. Place the `.jar` file in your server's `plugins` folder.
 3. Restart or reload your server.
 
