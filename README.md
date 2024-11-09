@@ -42,4 +42,4 @@ To modify or contribute:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/MinecraftJoinControl.git
+   git clone https://github.com/jayesh-kambli/MinecraftJoinControl.git
