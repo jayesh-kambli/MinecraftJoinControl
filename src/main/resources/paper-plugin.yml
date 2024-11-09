@@ -1,0 +1,4 @@
+name: MinecraftJoinControl
+version: '${project.version}'
+main: org.minecraftjoincontrol.MinecraftJoinControl
+api-version: '1.21'
